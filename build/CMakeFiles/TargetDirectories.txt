@@ -1,0 +1,3 @@
+D:/Code/alibaba-tool/build/CMakeFiles/AlibabaTool.dir
+D:/Code/alibaba-tool/build/CMakeFiles/edit_cache.dir
+D:/Code/alibaba-tool/build/CMakeFiles/rebuild_cache.dir

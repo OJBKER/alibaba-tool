@@ -1,0 +1,182 @@
+[
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\api\\alibaba_api.cpp.obj -c D:\\Code\\alibaba-tool\\src\\api\\alibaba_api.cpp",
+  "file": "D:/Code/alibaba-tool/src/api/alibaba_api.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/api/alibaba_api.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\api\\deepseek_api.cpp.obj -c D:\\Code\\alibaba-tool\\src\\api\\deepseek_api.cpp",
+  "file": "D:/Code/alibaba-tool/src/api/deepseek_api.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/api/deepseek_api.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\api\\test_sign.cpp.obj -c D:\\Code\\alibaba-tool\\src\\api\\test_sign.cpp",
+  "file": "D:/Code/alibaba-tool/src/api/test_sign.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/api/test_sign.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\AutomaticPublishing.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\AutomaticPublishing.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/AutomaticPublishing.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/AutomaticPublishing.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\Chat.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\Chat.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/Chat.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/Chat.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\GUImodule\\CloseButton.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\GUImodule\\CloseButton.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/GUImodule/CloseButton.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/GUImodule/CloseButton.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\GUImodule\\ContentPanelBase.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\GUImodule\\ContentPanelBase.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/GUImodule/ContentPanelBase.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/GUImodule/ContentPanelBase.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\GUImodule\\DropdownMenuStyle.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\GUImodule\\DropdownMenuStyle.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/GUImodule/DropdownMenuStyle.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/GUImodule/DropdownMenuStyle.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\GUImodule\\InputTextEx.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\GUImodule\\InputTextEx.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/GUImodule/InputTextEx.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/GUImodule/InputTextEx.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\GUImodule\\MyDropdownMenu.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\GUImodule\\MyDropdownMenu.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/GUImodule/MyDropdownMenu.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/GUImodule/MyDropdownMenu.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\GUImodule\\PageTurner.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\GUImodule\\PageTurner.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/GUImodule/PageTurner.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/GUImodule/PageTurner.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\GUImodule\\ProductTable.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\GUImodule\\ProductTable.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/GUImodule/ProductTable.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/GUImodule/ProductTable.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\GUImodule\\TopBarLabel.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\GUImodule\\TopBarLabel.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/GUImodule/TopBarLabel.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/GUImodule/TopBarLabel.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\GUImodule\\TopBarMenu.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\GUImodule\\TopBarMenu.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/GUImodule/TopBarMenu.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/GUImodule/TopBarMenu.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\GUImodule\\my_popup.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\GUImodule\\my_popup.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/GUImodule/my_popup.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/GUImodule/my_popup.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\ImGuiApp.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\ImGuiApp.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/ImGuiApp.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/ImGuiApp.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\ImGuiMainWindow.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\ImGuiMainWindow.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/ImGuiMainWindow.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/ImGuiMainWindow.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\MainContent.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\MainContent.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/MainContent.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/MainContent.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\TopBar.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\TopBar.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/TopBar.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/TopBar.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\ViewProduct.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\ViewProduct.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/ViewProduct.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/ViewProduct.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\main.cpp.obj -c D:\\Code\\alibaba-tool\\src\\main.cpp",
+  "file": "D:/Code/alibaba-tool/src/main.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\utils\\generateSyncSign.cpp.obj -c D:\\Code\\alibaba-tool\\src\\utils\\generateSyncSign.cpp",
+  "file": "D:/Code/alibaba-tool/src/utils/generateSyncSign.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/utils/generateSyncSign.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\utils\\helpers.cpp.obj -c D:\\Code\\alibaba-tool\\src\\utils\\helpers.cpp",
+  "file": "D:/Code/alibaba-tool/src/utils/helpers.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/utils/helpers.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\imgui\\imgui.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\imgui\\imgui.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/imgui/imgui.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/imgui/imgui.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\imgui\\imgui_demo.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\imgui\\imgui_demo.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/imgui/imgui_demo.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\imgui\\imgui_draw.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\imgui\\imgui_draw.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/imgui/imgui_draw.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\imgui\\imgui_widgets.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\imgui\\imgui_widgets.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/imgui/imgui_widgets.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\imgui\\imgui_tables.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\imgui\\imgui_tables.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/imgui/imgui_tables.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\imgui\\backends\\imgui_impl_dx11.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\imgui\\backends\\imgui_impl_dx11.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/imgui/backends/imgui_impl_dx11.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/imgui/backends/imgui_impl_dx11.cpp.obj"
+},
+{
+  "directory": "D:/Code/alibaba-tool/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DUNICODE -D_UNICODE @CMakeFiles/AlibabaTool.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlibabaTool.dir\\src\\gui\\imgui\\backends\\imgui_impl_win32.cpp.obj -c D:\\Code\\alibaba-tool\\src\\gui\\imgui\\backends\\imgui_impl_win32.cpp",
+  "file": "D:/Code/alibaba-tool/src/gui/imgui/backends/imgui_impl_win32.cpp",
+  "output": "CMakeFiles/AlibabaTool.dir/src/gui/imgui/backends/imgui_impl_win32.cpp.obj"
+}
+]

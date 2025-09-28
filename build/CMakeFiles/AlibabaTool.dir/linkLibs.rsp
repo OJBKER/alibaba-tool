@@ -1,0 +1,1 @@
+ -ld3d11 -ldxgi -ldxguid -ld3dcompiler -ldwmapi C:/msys64/mingw64/lib/libcurl.dll.a C:/msys64/mingw64/lib/libcrypto.dll.a -ltinyxml2 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
